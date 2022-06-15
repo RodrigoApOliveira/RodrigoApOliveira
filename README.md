@@ -2,7 +2,8 @@
 
 Olá, eu sou o Rodrigo Oliveira, aluno do curso Staart
 
-![baixados](https://user-images.githubusercontent.com/106288092/173711127-cf0265c0-4bb8-4a0d-a639-48032c2856c5.png)
+![rodrigo](https://user-images.githubusercontent.com/106288092/173909001-419aebae-0385-454b-a1aa-4a337a8194c1.jpg)
+
 
 Moro em Avaré-SP 🌐
 
