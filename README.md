@@ -2,7 +2,7 @@
 
 Olá, eu sou o Rodrigo Oliveira
 
-## Meus Hobbys
+## Meus Hobbies
 
 - Ler
 - Assitir séries
