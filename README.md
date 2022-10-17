@@ -1,8 +1,8 @@
-# Bem vindo(a) ao meu perfil
+# Bem-vindo(a) ao meu perfil 😁
 
 Olá, eu sou o Rodrigo Oliveira
 
-### Bem-vindo(a) ao meu perfil 😁
+
 
  <div>
    <a href="https://github.com/RodrigoApOliveira">
