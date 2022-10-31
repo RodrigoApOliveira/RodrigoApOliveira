@@ -7,8 +7,8 @@ Olá, eu sou o Rodrigo Oliveira
 
  <div>
    <a href="https://github.com/RodrigoApOliveira">
-   <img width="440em" align="left" src="https://github-readme-stats.vercel.app/api?username=RodrigoApOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img width="430em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img width="530em" align="left" src="https://github-readme-stats.vercel.app/api?username=RodrigoApOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img width="530em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
  
  
